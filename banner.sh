@@ -1,8 +1,8 @@
 clear
 echo "============================="
-echo "  Welcome to My TTY Clock!   "
+echo "  Welcome to My TTY Clock!"
+watch -n 1 date
 echo "============================="
-tty-clock -t -s
 echo
 echo "clear" > cl34r.txt
 cat "cl34r.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
