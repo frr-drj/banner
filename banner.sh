@@ -1,6 +1,6 @@
 clear
 echo "============================="
-echo "  Welcome to My TTY Clock!"
+echo "  Welcome to Termux!"
 echo "                                                                                                                               
                                                               ▓▓            ██                                                
                                                 ██      ████████        ██████                                                
