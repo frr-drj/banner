@@ -6,4 +6,6 @@ figlet Basic Installation
 apt install nano -y
 figlet -f big done! | lolcat
 echo
-echo -e 
+echo -e "[1m Now Run bash banner.sh...!!!"
+echo
+echo -e "[1m[32m Developed by :[33m DRJ"
